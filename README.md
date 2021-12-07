@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">Developer | Computer Science Student |</h3>
+<h3 align="center">Developer | Computer Science Student | Android Developer </h3>
 
 - 🌱 I’m currently learning **Java**
 
